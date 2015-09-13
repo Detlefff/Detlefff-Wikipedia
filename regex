@@ -1,0 +1,3 @@
+/^def (.*?)$/i
+/^define (.*?)$/i
+/^definiere (.*?)$/i
