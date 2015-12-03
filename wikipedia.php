@@ -1,8 +1,8 @@
 <?php
 class wikipedia extends Script
 {
-    protected $helpMessage = "def THING\ndefine THING\ndefiniere THING";
-	protected $description = 'Returns the definition of the given string from Wikipedia';
+    protected static $helpMessage = "def THING\ndefine THING\ndefiniere THING";
+	protected static $description = 'Returns the definition of the given string from Wikipedia';
 
     public function run()
     {
